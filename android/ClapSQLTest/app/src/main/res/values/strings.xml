@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ClapSQL</string>
+    <string name="tv_tab">ClapSQL-Android测试</string>
+    <string name="delete">删除</string>
+    <string name="update">修改</string>
+    <string name="insert_data">添加数据</string>
+    <string name="update_data">更新数据</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="insert">添加</string>
+</resources>
